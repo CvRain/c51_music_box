@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\app.obj" 
+TO ".\Objects\music_box" 
+PRINT(".\Listings\music_box.m51") RAMSIZE(256) 
